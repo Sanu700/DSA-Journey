@@ -7,7 +7,11 @@
 
 ### Arrays & Hashing
 - [x] Contains Duplicate
-- [ ] Valid Anagram
-- [ ] Two Sum
-- [ ] Group Anagrams
+- [x] Valid Anagram
+- [x] Two Sum
+- [x] Group Anagrams
+- [x] Product of Array Except Self
+- [x] LCS
+- [x] Valid Sudoku
+- [x] Top K Freq Elmnts  
 ...
