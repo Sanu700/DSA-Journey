@@ -16,16 +16,16 @@
 - [x] Top K Freq Elmnts  
 
 ### Two Pointers 
--[x]Valid Palindrome
--[x]Two Sum II
--[x]3Sum
--[x]Container with most water
--[x]Trapping rainwater
+- [x]Valid Palindrome
+- [x]Two Sum II
+- [x]3Sum
+- [x]Container with most water
+- [x]Trapping rainwater
 
 ### Sliding Window
--[x]Best time to buy/sell stocks
--[x]Longest Substring without repeating characters
--[x]Longest Repeating Character replacement
--[x]Permutation in string
--[x]Minimum Window String
--[x]Sliding Window Maximum
+- [x]Best time to buy/sell stocks
+- [x]Longest Substring without repeating characters
+- [x]Longest Repeating Character replacement
+- [x]Permutation in string
+- [x]Minimum Window String
+- [x]Sliding Window Maximum
