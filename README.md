@@ -24,3 +24,8 @@
 
 ### Sliding Window
 -[x]Best time to buy/sell stocks
+-[x]Longest Substring without repeating characters
+-[x]Longest Repeating Character replacement
+-[x]Permutation in string
+-[x]Minimum Window String
+-[x]Sliding Window Maximum
