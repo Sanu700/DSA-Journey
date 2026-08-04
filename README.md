@@ -11,10 +11,9 @@
 - [x] Two Sum
 - [x] Group Anagrams
 - [x] Product of Array Except Self
-- [] LCS
 - [x] Valid Sudoku
 - [x] Top K Freq Elmnts  
-
+- [] LCS
 ### Two Pointers 
 - [x] Valid Palindrome
 - [x] Two Sum II
