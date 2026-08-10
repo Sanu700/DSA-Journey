@@ -28,3 +28,20 @@
 - [x] Permutation in string
 - [x] Minimum Window String
 - [x] Sliding Window Maximum
+
+## Stacks
+- [x] Valid Parentheses
+- [x] Largest Rectangle in Histogram
+- [x] Evaluate Reverse Polish Notation
+- [x] Min Stack
+- [x] Daily Temperature
+- [x] Carfleet
+
+## Binary Search
+- [x] Median of Two Sorted Arrays
+- [x] Search in Rotated Sorted Array
+- [x] Search in 2D matrix
+- [x] Find Min in Rotated Sorted Array
+- [x] Koko Eating Bananas
+- [x] Time Based key value store
+- [x] Binary Search
