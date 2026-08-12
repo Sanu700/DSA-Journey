@@ -45,3 +45,11 @@
 - [x] Koko Eating Bananas
 - [x] Time Based key value store
 - [x] Binary Search
+
+## Tree
+- [x] Invert Binary Tree
+- [x] Max Depth of Tree
+- [x] Diameter of Tree
+- [x] Balanced Binary Tree
+- [x] Same Tree
+- [x] SubTree of Another Tree
