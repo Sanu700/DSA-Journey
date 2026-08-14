@@ -53,3 +53,10 @@
 - [x] Balanced Binary Tree
 - [x] Same Tree
 - [x] SubTree of Another Tree
+- [x] Lowest Common Ancestor of BST
+- [x] Binary level order traversal
+- [x] Binary Right side view
+- [x] Count good nodes in BST
+- [x] Validate BST
+- [x] Kth smallest element in BST
+- [x] Construct BST from inorder and preorder
