@@ -60,3 +60,13 @@
 - [x] Validate BST
 - [x] Kth smallest element in BST
 - [x] Construct BST from inorder and preorder
+- [x] Binary Tree Max Path Sum
+- [x] Serialize & Deserialize Binary Tree
+
+## Graphs
+- [x] Number of Islands
+- [x] Max Area of Island
+- [x] Clone Graph
+- [x] Walls & Gates
+- [x] Rotting Orange
+- [x] Atlantic Pacific Flow
