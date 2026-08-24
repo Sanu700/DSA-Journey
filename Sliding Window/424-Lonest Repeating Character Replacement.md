@@ -1,26 +1,25 @@
-class Solution {
-public:
-    int characterReplacement(string s, int k) {
-        vector<int> freq(26, 0);
+# 424. Longest Repeating Character Replacement
 
-        int left = 0;
-        int maxFreq = 0;
-        int ans = 0;
+## Pattern
+Sliding Window + Frequency Counting
 
-        for (int right = 0; right < s.size(); right++) {
-           
-            freq[s[right] - 'A']++;
+## Approach
+1. Maintain a window with `left` and `right` pointers.
+2. Count the frequency of characters inside the current window.
+3. Track the maximum frequency seen so far in the window.
+4. If the window length minus the maximum frequency is greater than `k`, shrink the window from the left.
+5. Update the answer with the current valid window size.
 
-            maxFreq = max(maxFreq, freq[s[right] - 'A']);
+## Time Complexity
+O(n)
 
-            while ((right - left + 1) - maxFreq > k) {
-                freq[s[left] - 'A']--;
-                left++;
-            }
+## Space Complexity
+O(1)
 
-            ans = max(ans, right - left + 1);
-        }
-
-        return ans;
-    }
-};
+## Interview Note
+- The condition for a valid window is:
+  ```cpp
+  (windowSize - maxFreq) <= k
+  ```
+- The key is to keep only the frequency count and the maximum frequency.
+- This is a standard sliding-window optimization problem.

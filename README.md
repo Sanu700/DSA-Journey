@@ -83,3 +83,11 @@
 - [x] Min Cost Climbing Stairs
 - [x] House Robber
 - [x] House Robber II
+- [x] Longest Palindromic String
+- [x] Palindromic Substrings
+- [x] Coin Change
+- [x] Max Product Subarray
+- [x] Decode Ways
+- [x] Longest Increasing Subsequence
+- [x] Partition Equal Subset Sum
+- [x] Word Break
