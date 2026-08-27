@@ -78,7 +78,7 @@
 - [x] Redundant Connection
 - [x] Word ladder
 
-## DP
+## 1D-DP
 - [x] Climbing Stairs
 - [x] Min Cost Climbing Stairs
 - [x] House Robber
@@ -91,3 +91,16 @@
 - [x] Longest Increasing Subsequence
 - [x] Partition Equal Subset Sum
 - [x] Word Break
+
+## 2D-DP
+- [x] Unique Paths
+- [x] Longest Common Subsequence
+- [x] Best Time to Buy And Sell Stock With Cooldown
+- [x] Coin Change II
+- [x] Target Sum
+- [x] Interleaving String
+- [x] Longest Increasing Path In a Matrix
+- [x] Distinct Subsequences
+- [x] Edit Distance
+- [x] Burst Balloons
+- [x] Regular Expression Matching
