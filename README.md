@@ -104,3 +104,13 @@
 - [x] Edit Distance
 - [x] Burst Balloons
 - [x] Regular Expression Matching
+
+## Greedy Algorithm
+- [x] Jump Game
+- [x] Jump Game II
+- [x] Max Subarray
+- [x] Gas Station
+- [x] Valid Parenthesis String
+- [x] Partition Label
+- [x] Hand of Straights
+- [x] Merge triplets to form Target Triplet
