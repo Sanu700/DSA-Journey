@@ -114,3 +114,28 @@
 - [x] Partition Label
 - [x] Hand of Straights
 - [x] Merge triplets to form Target Triplet
+
+**### Linked List**
+
+- [x] Reverse Linked List
+- [x] Merge Two Sorted Lists
+- [x] Reorder List
+- [x] Remove Nth Node From End of List
+- [x] Copy List With Random Pointer
+- [x] Add Two Numbers
+- [x] Linked List Cycle
+- [x] Find the Duplicate Number
+- [x] LRU Cache
+- [x] Merge K Sorted Lists
+- [x] Reverse Nodes in K-Group
+
+
+**### Heap / Priority Queue**
+
+- [x] Kth Largest Element in a Stream
+- [x] Last Stone Weight
+- [x] K Closest Points to Origin
+- [x] Kth Largest Element in an Array
+- [x] Task Scheduler
+- [x] Design Twitter
+- [x] Find Median From Data Stream
