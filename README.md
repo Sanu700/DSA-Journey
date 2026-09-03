@@ -115,7 +115,7 @@
 - [x] Hand of Straights
 - [x] Merge triplets to form Target Triplet
 
-**### Linked List**
+## Linked List
 
 - [x] Reverse Linked List
 - [x] Merge Two Sorted Lists
@@ -130,7 +130,7 @@
 - [x] Reverse Nodes in K-Group
 
 
-**### Heap / Priority Queue**
+## Heap / Priority Queue
 
 - [x] Kth Largest Element in a Stream
 - [x] Last Stone Weight
